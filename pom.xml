@@ -68,7 +68,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
-		<finalName>EmployeeApp-spring</finalName>
+		<finalName>employee-app-spring</finalName>
 		
 	</build>
 
